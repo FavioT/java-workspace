@@ -19,8 +19,8 @@ public class Ejercicio3 {
 
 }
 
-public class Alumnno extends Persona {
-  string Persona;
+class Alumnno extends Persona {
+  String Persona;
   int Legajo;
 
   int getLegajo()
